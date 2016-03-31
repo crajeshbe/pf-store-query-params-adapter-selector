@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/sdk/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-core-plugins.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/provisioner-sdk.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-appserver-ext.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-branding-ping.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/provisioner-admin.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-adminconsole-base.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-pingone.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-admin-api-core.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-common-api.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/provisioner.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-protocolengine.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-crypto-luna.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-commons.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/ping-base.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/pf-xml.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/Users/hzandbelt/pingfederate/pingfederate-8.0.0/pingfederate/server/default/lib/json-simple.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
