@@ -1,0 +1,1 @@
+# pf-store-query-params-adapter-selector
